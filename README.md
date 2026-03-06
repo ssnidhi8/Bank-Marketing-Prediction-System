@@ -20,4 +20,5 @@ The Bank Marketing Prediction System is a machine learning application that pred
 ## Dataset
 The project uses the Bank Marketing dataset which contains customer demographic and campaign interaction information.
 
-## Project Structure
+
+
